@@ -16,8 +16,3 @@ _Computer Science & Engineering Sophomore_ at <b>Indian Institute of Technology 
 - 📫 You can reach at: hsoni3430@gmail.com
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for New Opportunities.
-
-
-![Hardik's Github Stats](https://github-readme-stats.vercel.app/api?username=iamhardikat11&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhardikat11&layout=compact)](https://github.com/avinashkranjan)
-![Hardik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamhardikat11)
