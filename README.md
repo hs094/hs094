@@ -1,7 +1,7 @@
 ### Hi there, I'm [Hardik!](https://github.com/iamhardikat11) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BPdDn2Ht2Q7GDdAyiTy9%2BVQ%3D%3D"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/iamhardikat11"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://github.com/hs094"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
 <a href=""><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
 <a href=""><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
