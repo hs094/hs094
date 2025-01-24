@@ -18,9 +18,8 @@
   </a>
 </div>
 
-
 <h2 align="center"> 💻 About Me</h2>
-<h3 align="center">🚀 Full Stack Developer   |     🐍 Python Enthusiast     |     🎓 IIT Kharagpur '25</h3>
+<h3 align="center">🚀 Full Stack Developer | 🐍 Python Enthusiast | 🎓 IIT Kharagpur '25</h3>
 
 - 🔭 Currently building **a marketplace platform using MERN stack**
 - 🌱 Learning **Docker, Redis, Nginx**
@@ -29,6 +28,8 @@
 - 📫 Reach me: [iamhardikat11@gmail.com](mailto:iamhardikat11@gmail.com)
 - ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs** 🧥
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center">🛠 Tech Stack</h2> 
 
