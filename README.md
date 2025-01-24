@@ -1,21 +1,65 @@
-### Hi there, I'm [Hardik Soni!](https://github.com/iamhardikat11) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+<img align="right" src="https://komarev.com/ghpvc/?username=hs094&color=blue" alt="Profile Views" />
 
-<a href="https://www.linkedin.com/public-profile/settings trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BPdDn2Ht2Q7GDdAyiTy9%2BVQ%3D%3D">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=2AA889&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Hardik+Soni+💻;" />
+</h1>
 
+<h3 align="center">🚀 Full Stack Developer   |     🐍 Python Enthusiast     |     🎓 IIT Kharagpur '25</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-soni-498271141/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hs094)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamhardikat11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardik.s.094/)
+
+
+<h2 align="center"> 💻 About Me</h2>
+
+- 🔭 Currently building **a marketplace platform using MERN stack**
+- 🌱 Learning **Docker, Redis, Nginx**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, or Python**
+- 📫 Reach me: [iamhardikat11@gmail.com](mailto:iamhardikat11@gmail.com)
+- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs** 🧥
+
+
+<h2 align="center">🛠 Tech Stack</h2> 
+
+<div align="center">
   
-<a href="https://www.linkedin.com/in/hardik-soni-498271141/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/hs094">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
-</a>
-<a href="/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
-<a href="https://www.instagram.com/hardik.s.094/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamhardikat11)
+<h2 align="center">⚡ Stats ⚡</h2>
 
-_Computer Science & Engineering Sophomore_ at <b>Indian Institute of Technology Kharagpur</b> (Location: Kharagpur, West Bengal, India) I'm a <b> Full Stack (MERN) Developer</b>  🤓 | <b>Pythoneer</b> 🐍 | <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> in a Dynamic Environment. 🧑🏻
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hs094&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hs094&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hs094&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- 👯 I’m looking to collaborate on any cool Project
-- 🤔 I’m looking for help with Open Source Project Development 
-- 📫 You can reach at iamhardikat11@gmail.com
-- ⚡ Fun fact: Caffeine helps me Code.. ☕
-- 🎆 I'm Open for New Opportunities.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sales07/sales07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+
+
+<br>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
