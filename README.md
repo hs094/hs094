@@ -31,19 +31,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 24 January 2025
+From: 26 December 2024 - To: 25 January 2025
 
-Total Time: 4 hrs 32 mins
+Total Time: 6 hrs 51 mins
 
-Python        57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
-TypeScript    48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Docker        33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-Bash          30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Git Config    28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Markdown      25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Text          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Makefile      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-HTML          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python        1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Docker        51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+TypeScript    48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Git Config    34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Markdown      32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Bash          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Text          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+JavaScript    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Other         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
