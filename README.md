@@ -31,19 +31,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 31 January 2025
+From: 02 January 2025 - To: 01 February 2025
 
-Total Time: 11 hrs 26 mins
+Total Time: 11 hrs 40 mins
 
-Python            1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-JavaScript        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Markdown          1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Git Config        53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Docker            51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-TypeScript        48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Bash              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-C++               44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Java Properties   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown          1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Python            1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+JavaScript        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Git Config        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Docker            51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+TypeScript        49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Bash              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+C++               44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Java Properties   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
