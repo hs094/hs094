@@ -19,14 +19,21 @@
 </div>
 
 <h2 align="center"> 💻 About Me</h2>
-<h3 align="center">🚀 Full Stack Developer | 🐍 Python Enthusiast | 🎓 IIT Kharagpur '25</h3>
+<h3 align="center">🎓 IIT Kharagpur '25</h3>
 
+🌱 I'm currently learning
+- To Master JavaScript
+- Golang -> Creating HTTP servers
+- Cloud Computing
+- Backend in general: **Docker, Redis, Nginx**
+- LLM's and AI
+
+👍🏻 Life in General:
 - 🔭 Currently building **a marketplace platform using MERN stack**
-- 🌱 Learning **Docker, Redis, Nginx**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, or Python**
-- 📫 Reach me: [iamhardikat11@gmail.com](mailto:iamhardikat11@gmail.com)
 - ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs** 🧥
+- 📫 Reach me: [iamhardikat11@gmail.com](mailto:iamhardikat11@gmail.com)
 
 <!--START_SECTION:waka-->
 
