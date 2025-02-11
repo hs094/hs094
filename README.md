@@ -38,17 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 08 February 2025
+From: 10 January 2025 - To: 09 February 2025
 
-Total Time: 31 hrs
+Total Time: 33 hrs 37 mins
 
-Bash              8 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-C++               4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Python            2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Markdown          2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-JavaScript        2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Git Config        1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other             1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Bash              8 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+C++               6 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Python            3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Other             2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 ```
 
 <!--END_SECTION:waka-->
