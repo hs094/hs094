@@ -38,14 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 09 February 2025
+From: 11 January 2025 - To: 10 February 2025
 
-Total Time: 33 hrs 37 mins
+Total Time: 35 hrs 31 mins
 
-Bash              8 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
-C++               6 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Python            3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Other             2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Bash              8 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+C++               6 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Other             3 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
 ```
 
 <!--END_SECTION:waka-->
