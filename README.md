@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 17 February 2025
+From: 19 January 2025 - To: 18 February 2025
 
-Total Time: 43 hrs 51 mins
+Total Time: 45 hrs 45 mins
 
-Other             9 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+Other             9 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
 ```
 
 <!--END_SECTION:waka-->
