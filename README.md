@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 05 March 2025
+From: 04 February 2025 - To: 06 March 2025
 
-Total Time: 67 hrs 21 mins
+Total Time: 67 hrs 42 mins
 
-Other        35 hrs 50 mins  ████████▓░░░░░░░░░░░░░░░░   34.73 %
+Other        37 hrs 34 mins  █████████░░░░░░░░░░░░░░░░   35.68 %
 ```
 
 <!--END_SECTION:waka-->
