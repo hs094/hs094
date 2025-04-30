@@ -21,4 +21,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false  # Ensures it lists all languages
+          STOP_AT_OTHER: true  # Ensures it lists all languages
