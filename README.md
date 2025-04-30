@@ -38,25 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 28 April 2025
+From: 30 March 2025 - To: 29 April 2025
 
-Total Time: 48 hrs 31 mins
+Total Time: 48 hrs 30 mins
 
-Other           68 hrs 38 mins  ██████████████▓░░░░░░░░░░   58.58 %
-Python          14 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Markdown        9 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Bash            4 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JSON            3 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Scala           2 hrs 48 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-TeX             2 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-JavaScript      2 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-TypeScript      2 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-C++             1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Text            1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Git Config      50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Terraform       45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-CSV             26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-C               21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other           77 hrs 55 mins  ███████████████▒░░░░░░░░░   61.64 %
 ```
 
 <!--END_SECTION:waka-->
