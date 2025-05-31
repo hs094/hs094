@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 28 May 2025
+From: 29 April 2025 - To: 29 May 2025
 
-Total Time: 30 hrs 46 mins
+Total Time: 30 hrs 10 mins
 
-Other        28 hrs 13 mins  ████████████░░░░░░░░░░░░░   47.84 %
+Other        18 hrs 57 mins  █████████▓░░░░░░░░░░░░░░░   38.57 %
 ```
 
 <!--END_SECTION:waka-->
