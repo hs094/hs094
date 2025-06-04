@@ -38,12 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2025 - To: 01 June 2025
+From: 03 May 2025 - To: 02 June 2025
 
-Total Time: 31 hrs 53 mins
+Total Time: 30 hrs 14 mins
 
-Python       12 hrs 19 mins  ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-Other        10 hrs 5 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+Python       11 hrs 53 mins  ████████▒░░░░░░░░░░░░░░░░   32.79 %
+Markdown     6 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Other        6 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 
 <!--END_SECTION:waka-->
