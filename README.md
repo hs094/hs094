@@ -38,12 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 06 November 2025
+From: 08 October 2025 - To: 07 November 2025
 
-Total Time: 140 hrs 31 mins
+Total Time: 130 hrs 36 mins
 
-Python                     109 hrs         ██████████████████▒░░░░░░   72.72 %
-Other                      9 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Python                     99 hrs 1 min    █████████████████▓░░░░░░░   71.18 %
+Other                      8 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
