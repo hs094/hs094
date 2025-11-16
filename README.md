@@ -38,14 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 13 November 2025
+From: 16 October 2025 - To: 15 November 2025
 
-Total Time: 104 hrs 45 mins
+Total Time: 91 hrs 18 mins
 
-Python                     71 hrs 15 mins  ████████████████░░░░░░░░░   64.60 %
-YAML                       7 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Text                       5 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Other                      5 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Python                     60 hrs 34 mins  ███████████████▓░░░░░░░░░   62.24 %
+YAML                       7 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Other                      6 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
