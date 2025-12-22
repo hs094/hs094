@@ -35,21 +35,6 @@
 - ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs** 🧥
 - 📫 Reach me: [iamhardikat11@gmail.com](mailto:iamhardikat11@gmail.com)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 November 2025 - To: 20 December 2025
-
-Total Time: 72 hrs 8 mins
-
-Python                     35 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   46.33 %
-Bash                       8 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-YAML                       7 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Other                      4 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-```
-
-<!--END_SECTION:waka-->
-
 <h2 align="center">🛠 Tech Stack</h2> 
 
 <div align="center">
